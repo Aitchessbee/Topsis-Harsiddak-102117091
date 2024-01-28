@@ -8,8 +8,8 @@ setup(
   description = 'Contains the Topsis package by Harsiddak on topsis',   # Give a short description about your library
   author = 'Harsiddak Bedi',                   # Type in your name
   author_email = 'bediharsiddak@gmail.com',      # Type in your E-Mail
-  url = '',   # Provide either the link to your github or to your website
-  download_url = '',    # I explain this later on
+  url = 'https://github.com/Aitchessbee/Topsis-Harsiddak-102117091',   # Provide either the link to your github or to your website
+  download_url = 'https://github.com/Aitchessbee/Topsis-Harsiddak-102117091/archive/refs/tags/1.0.4.tar.gz',    # I explain this later on
   keywords = ['SOME', 'MEANINGFULL', 'KEYWORDS'],   # Keywords that define your package best
   install_requires=[            # I get to this in a second
           'pandas',
